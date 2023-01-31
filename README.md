@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 ## Running the project
 
-Pulumi has the concept of [stacks](https://www.pulumi.com/docs/intro/concepts/stack/) which can be compared to development environments.
+Pulumi has the concept of [stacks](https://www.pulumi.com/docs/intro/concepts/stack/) which can be compared to environments.
 Select the dev stack: `pulumi stack select dev` and then run:
 
 ```bash

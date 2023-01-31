@@ -1,0 +1,6 @@
+name: test-pulumi-conditionals
+runtime:
+  name: python
+  options:
+    virtualenv: .venv
+description: Minimal pulumi project to test conditional resource creation
